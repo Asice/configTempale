@@ -1,3 +1,4 @@
+#springboot启动命令nohup java $JAVA_OPTS -jar xxx.jar >log.log &
 export JAVA_HOME=/usr/local/java/jdk1.8.0_171
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar:$JAVA_HOME/jre/lib/rt.jar
 export PATH=$PATH:$JAVA_HOME/bin
