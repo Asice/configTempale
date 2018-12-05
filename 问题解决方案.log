@@ -1,0 +1,8 @@
+jvm
+http://jvmmemory.com/
+https://blog.sokolenko.me/2014/11/javavm-options-production.html
+jstack
+https://www.jianshu.com/p/3667157d63bb
+jmap -heap [pid]
+iftop
+网络流量监控
